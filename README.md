@@ -7,7 +7,10 @@ You must have [the most up-to-date version of Haxe](https://haxe.org/download/),
 
 Follow a Friday Night Funkin' source code compilation tutorial, after this you will need to install LuaJIT.
 
-To install the electron run  'npm install electron
+To install the electron run  ```npm install electron
+
+# Run the engine 
+the engine have an command in the linux OSes Mac Windows is simple ```npm start
 
 ## Credits:
 * Shadow Mario - Coding

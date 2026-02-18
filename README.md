@@ -3,12 +3,16 @@ V0.5.1
 Engine not originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
 ## Installation:
-You must have [the most up-to-date version of Haxe](https://haxe.org/download/), seriously, stop using 4.1.5, it misses some stuff.
+You must have [node.js](https://nodejs.org/pt-br/download) or download using sudo (warning you need wsl or linux to run this is serious)
 
-Follow a Friday Night Funkin' source code compilation tutorial, after this you will need to install LuaJIT.
+Follow a desktop fnf engine source code compilation tutorial
 
-To install the electron run                                                                                                                                           ```                                                                                                                                                                npm install electron
+Run the command below to install Electron:
+```bash
+npm install electron
 ```
+
+
 # Run the engine 
 the engine have an command in the linux OSes Mac Windows is simple 
 ```the engine have an command in the linux OSes Mac Windows is simple 

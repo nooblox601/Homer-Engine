@@ -15,6 +15,7 @@ To install LuaJIT do this: `haxelib install linc_luajit` on a Command prompt/Pow
 * Shadow Mario - Coding
 * RiverOaken - Arts and Animations
 * bbpanzu - Assistant Coding
+* UNSTOP4BLE creator of the htmll5 version  but i forked from the repoof this user
 
 ### Special Thanks
 * shubs - New Input System

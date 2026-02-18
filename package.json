@@ -1,0 +1,39 @@
+{
+  "name": "nooblox-fnf-engine",
+  "version": "1.0.0",
+  "description": "Engine de FNF modular baseada em JSON",
+  "author": "Nooblox",
+  "license": "MIT",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --dev",
+    "build": "electron-builder",
+    "pack": "electron-builder --dir"
+  },
+  "devDependencies": {
+    "electron": "^28.3.3",
+    "electron-builder": "^24.13.3"
+  },
+  "dependencies": {
+    "howler": "^2.2.3",
+    "pixi.js": "^7.0.0"
+  },
+  "build": {
+    "appId": "com.nooblox.fnfengine",
+    "productName": "Nooblox FNF Engine",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "**/*"
+    ],
+    "win": {
+      "target": "nsis"
+    },
+    "linux": {
+      "target": "AppImage"
+    }
+  }
+}

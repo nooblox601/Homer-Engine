@@ -101,7 +101,7 @@ _____________________________________
 * Some stuff based on Week 7's changes has been put in (Background colors on Freeplay, Note splashes)
 * You can reset your Score on Freeplay/Story Mode by pressing Reset button.
 * You can listen to a song or adjust Scroll Speed/Damage taken/etc. on Freeplay by pressing Space.
-### requirements
+######## requirements
 * node.js 10 or higier
 * electron
-* or haxe but you need make a enginefrom the psych engine
+* or haxe but you need make a engine from the psych engine

@@ -24,7 +24,7 @@ npm start
 * Shadow Mario - Coding
 * RiverOaken - Arts and Animations
 * bbpanzu - Assistant Coding
-* UNSTOP4BLE creator of the htmll5 version  but i forked from the repoof this user
+* UNSTOP4BLE creator of the htmll5 version  but i forked from the repo of this user
 * hubs - New Input System
 * SqirraRNG - Chart Editor's Sound Waveform base code
 * iFlicky - Delay/Combo Menu Song Composer + Dialogue Sounds

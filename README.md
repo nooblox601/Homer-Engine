@@ -1,3 +1,4 @@
+![](https://github.com/nooblox601/Homer-Engine/art/logo.png?raw=true)
 V0.5.1
 # Friday Night Funkin' - Homer Engine
 Engine not originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.

@@ -9,7 +9,7 @@ Follow a desktop fnf engine source code compilation tutorial
 
 Run the command below to install Electron:
 ```bash
-npm install electron
+npm install electron --save-dev
 ```
 
 
